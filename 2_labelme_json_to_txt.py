@@ -157,7 +157,7 @@ def main():
     converter.convert()
 
 
-# python labelme_to_yolo.py --input ???/labels/test --output datasets/taozi/labels/test
+# python 2_labelme_json_to_txt.py --input ???/labels/test --output datasets/taozi/labels/test
 # python labelme_to_yolo.py --input ???/labels/train --output datasets/taozi/labels/train
 # python labelme_to_yolo.py --input ???/labels/val --output datasets/taozi/labels/val
 if __name__ == "__main__":
