@@ -1,0 +1,9 @@
+path: D:/Code/DeepLearning/YOLOV8/datasets/taozi
+
+names:
+  0: dog
+
+nc: 1
+test: images/test
+train: images/train
+val: images/val
